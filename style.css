@@ -1,0 +1,100 @@
+header{
+  text-align: center;
+  font-size: 25px;
+	padding:20px;
+}
+
+.pokemon{
+  background-color: rgb(161, 191, 255);
+	text-align: center;
+  font-size: 20px;
+  color: #495159;
+  font-weight: bold;   
+  padding: 20px 5px;
+  border: 10px solid white;
+	border-radius: 10px;
+}
+
+footer{
+  text-align: left;
+  background-color: black;
+  width: 100%;
+  height: 100%;
+}
+
+.footer p{
+  color: white
+}
+
+.footer h2{
+  color: white
+}
+
+.footer h4{
+  color: white
+}
+
+.footer i{
+  padding: 10px;
+  color: white;
+}
+
+.homegif{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 50px;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
+
+h6{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-bottom: 70px;
+}
+
+img{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card{
+  padding: 20px;
+}
+
+.button{
+  text-align: center;
+}
+
+.material-icons {
+  padding: 20px;
+  font-size: 100px;
+  width: 50px !important; 
+	height: 50px !important; 
+  text-align: center;
+  text-decoration: none;
+	opacity: 1;
+	transition-duration: 0.5s;	
+}
+
+.material-icons:hover {
+  opacity: 0.6;
+	transition-duration: 0.5s;
+}
